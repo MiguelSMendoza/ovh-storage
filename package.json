@@ -1,0 +1,25 @@
+{
+  "name": "ovh-storage",
+  "version": "1.0.0",
+  "description": "Middleware to upload files into OVH Cloud Containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelSMendoza/ovh-storage.git"
+  },
+  "keywords": [
+    "ovh",
+    "cloud",
+    "containers",
+    "objects"
+  ],
+  "author": "Miguel S. Mendoza <miguel@smendoza.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelSMendoza/ovh-storage/issues"
+  },
+  "homepage": "https://github.com/MiguelSMendoza/ovh-storage#readme"
+}
